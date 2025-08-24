@@ -1,5 +1,0 @@
-This is a project that i had created to predict the price of the stock.
-I had use Mechine Learning Regarding Model to Predict the price of Stock.
-In this i had first filter the data according to fit in the Mechine Learning Model.
-There is only two Attribute(feature) so it can be less accuract.
-It can provide price of you enter time.
